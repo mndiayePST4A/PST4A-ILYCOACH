@@ -86,6 +86,7 @@ if(isset($_POST['login'])){
             <option value="H">Masculin</option>
             <option value="F">Féminin</option>
     </select>
+        <p> Hello it's Sonny !</p>
         <p>Votre nom : <input type="text" name="nom" placeholder="Votre nom" /></p>
         <p>Votre prénom : <input type="text" name="prenom" placeholder="Votre prénom" /></p>
         <p>Votre âge : <input type="text" name="age" placeholder="Votre âge" /></p>
